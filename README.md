@@ -6,7 +6,7 @@
 ## Final Okten School project.
 
 Main Technologies:
-HTML5, CSS, JavaScript, TypeScript, Node.js, React, Next.js, Redux, Redux Toolkit, Nest.js, Prisma, PostgreSQL
+HTML5, CSS, JavaScript, TypeScript, Node.js, React, Next.js, Redux, Redux Toolkit, Nest.js, Prisma, PostgreSQL, GraphQL
 
 API:
 - GraphQL
