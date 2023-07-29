@@ -7,7 +7,7 @@
 
 <div>
   <section width=30% style="display: flex; flex-direction: column;">
-    <span>Authorization</span>
+    <h4>Authorization</h4>
     <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg">
   </div>
 </div>
