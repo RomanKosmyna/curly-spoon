@@ -5,7 +5,7 @@
 
 # Images
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-direction: row;">
   <section width=30% style="display: flex; flex-direction: column;">
     <h3>Authorization</h3>
     <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg">
