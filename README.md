@@ -14,14 +14,15 @@
 </p>
 
 <p align="center">
-  <img title="Mobile Settings window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-settings.png" width="30%">
+  <img title="Mobile Settings window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-settings.png" width="24%">
   &nbsp;
-  <img title="Mobile General window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-general.png" width="30%">
+  <img title="Mobile General window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-general.png" width="24%">
   &nbsp;
-  <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-venue.png" width="30%">
-</p>
-<img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-add-venue.png">
+  <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-venue.png" width="24%">
+  &nbsp;
+  <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-add-venue.png" width="24%">
 
+</p>
 ## Final Okten School project.
 
 Main Technologies:
