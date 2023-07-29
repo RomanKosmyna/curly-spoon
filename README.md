@@ -5,19 +5,26 @@
 
 # Images
 
-<div>
+<div style="display: flex; justify-content: space-between;">
   <section width=30% style="display: flex; flex-direction: column;">
     <h3>Authorization</h3>
     <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg">
-  </div>
+  </section>
+
+  <section width=30% style="display: flex; flex-direction: column;">
+    <h3>Main Page</h3>
+    <img title="Mobile Main window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-main.png">
+  </section>
+
+  <section width=30% style="display: flex; flex-direction: column;">
+    <h3>Navigation</h3>
+    <img title="Mobile Navigation window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-nav.png">
+  </section>
 </div>
 
 
 <p align="center">
-  <div>
-    <span>Authorization</span>
-    <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg" width="30%">
-  </div>
+
   &nbsp;
   <img title="Mobile Main window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-main.png" width="30%">
   &nbsp;
