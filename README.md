@@ -23,16 +23,11 @@
 | Authorization                          | Main Page                               | Navigation                          |
 |----------------------------------------|-----------------------------------------|------------------------------------|
 | ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg) | ![Mobile Main window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-main.png) | ![Mobile Navigation window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-nav.png) |
+| Mobile Settings                          | Mobile General                          | Mobile Auth                          | Mobile Auth                          |
+|----------------------------------------|-----------------------------------------|------------------------------------|------------------------------------|
+| ![Mobile Settings window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-settings.png) | ![Mobile General window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-general.png) | ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-venue.png) | ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-add-venue.png) |
 
 
-
-<p align="center">
-
-  &nbsp;
-  <img title="Mobile Main window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-main.png" width="30%">
-  &nbsp;
-  <img title="Mobile Navigation window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-nav.png" width="30%">
-</p>
 
 <p align="center">
   <img title="Mobile Settings window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-settings.png" width="24%">
