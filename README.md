@@ -3,6 +3,10 @@
 ## [Frontend](https://github.com/RomanKosmyna/curly-spoon-frontend)
 ## [Backend](https://github.com/RomanKosmyna/curly-spoon-backend)
 
+# Images
+
+<img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg">
+
 ## Final Okten School project.
 
 Main Technologies:
