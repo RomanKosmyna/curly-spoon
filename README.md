@@ -5,7 +5,7 @@
 
 # Images
 
-<p align="center">
+<p align="space-between">
   <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg" width="30%">
   <img title="Mobile Main window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-main.png" width="30%">
   <img title="Mobile Navigation window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-nav.png" width="30%">
