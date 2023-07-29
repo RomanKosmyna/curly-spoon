@@ -6,9 +6,9 @@
 # Images
 
 <p align="center">
-  <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg">
-  <img title="Mobile Main window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-main.png">
-  <img title="Mobile Navigation window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-nav.png">
+  <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg" width="30%">
+  <img title="Mobile Main window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-main.png" width="30%">
+  <img title="Mobile Navigation window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-nav.png" width="30%">
 </p>
 <img title="Mobile Settings window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-settings.png">
 <img title="Mobile General window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-general.png">
