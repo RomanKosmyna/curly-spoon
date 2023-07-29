@@ -20,6 +20,11 @@
   </section>
 </div>
 
+| Authorization                          | Main Page                               | Navigation                          |
+|----------------------------------------|-----------------------------------------|------------------------------------|
+| ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg) | ![Mobile Main window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-main.png) | ![Mobile Navigation window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-nav.png) |
+
+
 
 <p align="center">
 
