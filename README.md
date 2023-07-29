@@ -5,8 +5,16 @@
 
 # Images
 
+<div>
+  <section>
+    <span>Authorization</span>
+    <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg" width="30%">
+  </div>
+</div>
+
+
 <p align="center">
-  <div style="display: flex" style="flex-direction: column">
+  <div>
     <span>Authorization</span>
     <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg" width="30%">
   </div>
