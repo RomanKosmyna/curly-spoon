@@ -13,21 +13,10 @@
 |----------------------------------------|-----------------------------------------|------------------------------------|------------------------------------|
 | ![Mobile Settings window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-settings.png) | ![Mobile General window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-general.png) | ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-venue.png) | ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-add-venue.png) |
 
+| Desktop Auth                          | Desktop Main                          | Desktop Settings General                 |
+|----------------------------------------|-----------------------------------------|------------------------------------|
+| ![Desktop Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/desk-auth.png) | ![Desktop Main window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/desk-main.png) | ![Desktop Settings General window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/desk-settings-general.png) |
 
-<div style="display: flex; flex-direction: row;">
-  <section width=30% style="display: flex; flex-direction: column;">
-    <h3>Authorization</h3>
-    <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg">
-  </section>
-  <section width=30% style="display: flex; flex-direction: column;">
-    <h3>Main Page</h3>
-    <img title="Mobile Main window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-main.png">
-  </section>
-  <section width=30% style="display: flex; flex-direction: column;">
-    <h3>Navigation</h3>
-    <img title="Mobile Navigation window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-nav.png">
-  </section>
-</div>
 
 ## Final Okten School project.
 
