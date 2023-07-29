@@ -10,12 +10,10 @@
     <h3>Authorization</h3>
     <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg">
   </section>
-
   <section width=30% style="display: flex; flex-direction: column;">
     <h3>Main Page</h3>
     <img title="Mobile Main window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-main.png">
   </section>
-
   <section width=30% style="display: flex; flex-direction: column;">
     <h3>Navigation</h3>
     <img title="Mobile Navigation window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-nav.png">
