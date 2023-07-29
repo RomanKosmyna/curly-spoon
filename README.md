@@ -16,8 +16,8 @@
 | Desktop Auth                          | Desktop Main                          | Desktop Settings General                 |
 |----------------------------------------|-----------------------------------------|------------------------------------|
 | ![Desktop Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/desk-auth.png) | ![Desktop Main window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/desk-main.png) | ![Desktop Settings General window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/desk-settings-general.png) |
-| Desktop Auth                          | Desktop Main                          | Desktop Settings General                 | Desktop Venues                           | Desktop Add Venue                        |
-| ![Desktop Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/desk-auth.png) | ![Desktop Main window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/desk-main.png) | ![Desktop Settings General window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/desk-settings-general.png) | ![Desktop Venues window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/desk-venues.png)
+| Desktop Venues                        | Desktop Add Venue                        |
+| ![Desktop Venues window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/desk-venues.png) | ![Desktop Add Venue window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/desk-add-venue.png) |
 
 
 
