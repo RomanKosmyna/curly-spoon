@@ -6,6 +6,12 @@
 # Images
 
 <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg">
+<img title="Mobile Main window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-main.png">
+<img title="Mobile Navigation window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-nav.png">
+<img title="Mobile Settings window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-settings.png">
+<img title="Mobile General window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-general.png">
+<img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-venue.png">
+<img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-add-venue.png">
 
 ## Final Okten School project.
 
