@@ -15,15 +15,7 @@
 |----------------------------------------|-----------------------------------------|------------------------------------|------------------------------------|
 | ![Mobile Settings window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-settings.png) | ![Mobile General window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-general.png) | ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-venue.png) | ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-add-venue.png) |
 
-
-
-| Mobile Authorization                   | Mobile Main Page                        | Mobile Navigation                  |
-|----------------------------------------|-----------------------------------------|------------------------------------|
-| ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg) | ![Mobile Main window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-main.png) | ![Mobile Navigation window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-nav.png) |
-
-| Mobile Settings                        | Mobile General                          | Mobile Venue                       | Mobile Add Venue                   |
-|----------------------------------------|-----------------------------------------|------------------------------------|------------------------------------|
-| ![Mobile Settings window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-settings.png) | ![Mobile General window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-general.png) | ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-venue.png) | ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-add-venue.png) |
+## Desktop Screenshots
 
 | Desktop Auth                           | Desktop Main                            | Desktop Settings General           |
 |----------------------------------------|-----------------------------------------|------------------------------------|
@@ -32,8 +24,6 @@
 | Desktop Venues                        | Desktop Add Venue                        |
 |---------------------------------------|------------------------------------------|
 | ![Desktop Venues window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/desk-venues.png) | ![Desktop Add Venue window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/desk-add-venue.png) |
-
-
 
 ## Final Okten School project.
 
