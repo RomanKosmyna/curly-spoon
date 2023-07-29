@@ -5,6 +5,14 @@
 
 # Images
 
+| Authorization                          | Main Page                               | Navigation                          |
+|----------------------------------------|-----------------------------------------|------------------------------------|
+| ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg) | ![Mobile Main window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-main.png) | ![Mobile Navigation window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-nav.png) |
+| Mobile Settings                          | Mobile General                          | Mobile Auth                          | Mobile Auth                          |
+|----------------------------------------|-----------------------------------------|------------------------------------|------------------------------------|
+| ![Mobile Settings window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-settings.png) | ![Mobile General window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-general.png) | ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-venue.png) | ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-add-venue.png) |
+
+
 <div style="display: flex; flex-direction: row;">
   <section width=30% style="display: flex; flex-direction: column;">
     <h3>Authorization</h3>
@@ -19,13 +27,6 @@
     <img title="Mobile Navigation window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-nav.png">
   </section>
 </div>
-
-| Authorization                          | Main Page                               | Navigation                          |
-|----------------------------------------|-----------------------------------------|------------------------------------|
-| ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg) | ![Mobile Main window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-main.png) | ![Mobile Navigation window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-nav.png) |
-| Mobile Settings                          | Mobile General                          | Mobile Auth                          | Mobile Auth                          |
-|----------------------------------------|-----------------------------------------|------------------------------------|------------------------------------|
-| ![Mobile Settings window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-settings.png) | ![Mobile General window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-general.png) | ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-venue.png) | ![Mobile Auth window](https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-add-venue.png) |
 
 ## Final Okten School project.
 
