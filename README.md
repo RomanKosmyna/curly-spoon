@@ -6,15 +6,18 @@
 # Images
 
 <p>
-  <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg" width="30%" margin-right="10px">
+  <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg" width="30%">
   &nbsp;
   <img title="Mobile Main window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-main.png" width="30%">
+  &nbsp;
   <img title="Mobile Navigation window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-nav.png" width="30%">
 </p>
 
 <p align="center">
   <img title="Mobile Settings window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-settings.png" width="30%">
+  &nbsp;
   <img title="Mobile General window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-general.png" width="30%">
+  &nbsp;
   <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-venue.png" width="30%">
 </p>
 <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-add-venue.png">
