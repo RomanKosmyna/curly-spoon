@@ -6,8 +6,10 @@
 # Images
 
 <p align="center">
-  <span>Authorization</span>
-  <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg" width="30%">
+  <div style="display: flex" style="flex-direction: column">
+    <span>Authorization</span>
+    <img title="Mobile Auth window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-auth.jpg" width="30%">
+  </div>
   &nbsp;
   <img title="Mobile Main window" src="https://github.com/RomanKosmyna/curly-spoon-images/blob/main/mobile-main.png" width="30%">
   &nbsp;
